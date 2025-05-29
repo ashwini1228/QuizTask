@@ -20,3 +20,6 @@ The quiz logic includes dynamic DOM manipulation, event handling, and basic cond
 Although the app is currently static, it serves as a solid foundation for future enhancements. Potential improvements include adding a backend to store user scores, loading questions from a remote database or API, supporting different categories or difficulty levels, implementing a timer, and tracking progress across sessions.
 
 In summary, this project demonstrates how a basic quiz game can be implemented using only frontend technologies. It’s a great educational tool for those new to JavaScript and web development. The app's modular structure and straightforward logic make it easy to customize and expand into a more comprehensive quiz or educational testing system.
+
+![Image](https://github.com/user-attachments/assets/d2f55766-9059-4707-a2ff-ed06b4cba04a)
+![Image](https://github.com/user-attachments/assets/ee87f369-f7da-49b0-bb09-2d1eebcef86a)
